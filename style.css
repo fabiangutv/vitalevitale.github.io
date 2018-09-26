@@ -1,0 +1,21 @@
+h2 {
+	color: green;
+}
+.card {
+	text-align: center;
+}
+#social a {
+ 	color: lightgrey;
+	font-size: 35px;
+	text-align:center;
+}
+#social a:hover {
+	color: red;
+}
+#header {
+	text-align: center;
+	background-size:
+	cover;
+	padding: 75px;
+	color: grey;
+}
